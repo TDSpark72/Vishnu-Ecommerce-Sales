@@ -1,11 +1,11 @@
-📊 VISHNU E-COMMERCE SALES DASHBOARD
+📊 E-COMMERCE SALES DASHBOARD
 
 Power BI | Excel | Data Analysis & Visualization
 
 This project presents an interactive Power BI dashboard designed to analyze and visualize end-to-end e-commerce sales performance. The dashboard helps track key metrics such as revenue, profit, customer behavior, product performance, and payment trends, enabling better decision-making for business growth.
 
 🚀 Project Overview
-The Vishnu E-Commerce Sales Dashboard provides a comprehensive performance view of an online retail business.
+The E-Commerce Sales Dashboard provides a comprehensive performance view of an online retail business.
 It highlights:
 
 📈 Total Sales Amount

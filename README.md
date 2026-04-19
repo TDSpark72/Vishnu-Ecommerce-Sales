@@ -43,7 +43,8 @@ Power Query – Data transformation
 
 📸 Dashboard Preview
 
-<img width="1165" height="658" alt="https://1drv.ms/i/c/a773c8ab1f2bd2f6/IQDhCn4-vcVwTaJMw4UtftSQAb1QTgFPClSo8A86S5qZSOo?e=6Jt4lr" src="https://github.com/user-attachments/assets/0959ea99-eaed-4b8f-8052-c40913e041d5" />
+<img width="1287" height="729" alt="Screenshot 2026-04-19 130308" src="https://github.com/user-attachments/assets/c20243d1-4cb5-4797-b7da-6543aba4e76a" />
+
 The dashboard includes:
 KPI Cards (Sales, Profit, Quantity, AOV)
 Donut Charts (Payment Mode, Category)
@@ -73,6 +74,6 @@ Adding drill-through pages for deep analysis.
 
 🧑‍💻 Author
 Tushar Ranjan Rout
-Aspiring Data Analyst | Power BI | Excel | Python | SQL
+Aspiring Data Analyst | Power BI | Excel | Python | SQL  
 Feel free to connect or suggest improvements!
 
